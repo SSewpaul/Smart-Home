@@ -4,7 +4,7 @@
 
 /DeviceController/.vs/DeviceController
 /.vs
-/DeviceController/DeviceController/bin/Debug/net8.0
+/DeviceController/DeviceController/bin/Debug
 /DeviceController/DeviceController/obj
 .idea
 .venv
