@@ -19,7 +19,7 @@ class NanoleafListener(ServiceListener):
 if __name__ == "__main__":
     zeroconf = Zeroconf()
     listener = NanoleafListener()
-    browser = ServiceBrowser(zeroconf, "_nanoleaf._tcp.local.", listener)
+    browser = ServiceBrowser(zeroconf, "_nanoleafapi._tcp.local.", listener)
 
     try:
         print("🔎 Scanning for Nanoleaf devices... Press Ctrl+C to stop.")
