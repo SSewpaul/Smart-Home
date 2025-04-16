@@ -6,3 +6,5 @@
 /.vs
 /DeviceController/DeviceController/bin/Debug/net8.0
 /DeviceController/DeviceController/obj
+.idea
+.venv
